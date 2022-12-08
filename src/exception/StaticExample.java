@@ -22,4 +22,7 @@ public class StaticExample {
     public void abcd(){
         System.out.println("-----");
     }
+
+
+
 }
