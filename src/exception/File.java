@@ -18,6 +18,8 @@ public class File {
         }catch(Exception e){System.out.println(e);}
     }
 
+
+
     public void fileWrite(){
         try{
             FileWriter fw=new FileWriter("/Users/arjit/Desktop/abc.txt");

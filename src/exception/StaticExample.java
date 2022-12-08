@@ -23,6 +23,10 @@ public class StaticExample {
         System.out.println("-----");
     }
 
+    public void xyz(){
+        System.out.println("--Hi---");
+    }
+
 
 
 }
