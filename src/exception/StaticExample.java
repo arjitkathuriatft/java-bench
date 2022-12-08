@@ -18,4 +18,8 @@ public class StaticExample {
         s1.abc();
         s2.abc();
     }
+
+    public void abcd(){
+        System.out.println("-----");
+    }
 }

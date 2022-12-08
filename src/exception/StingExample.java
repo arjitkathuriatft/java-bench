@@ -7,7 +7,6 @@ public class StingExample {
 
         String a = "   ABCdef    ";
         String b = "ABcD";
-
         System.out.println(a.trim());
         System.out.println(a.toLowerCase());
         System.out.println(a.toUpperCase());
@@ -15,6 +14,8 @@ public class StingExample {
 
 
     }
+
+
 
 
     public void test(){
