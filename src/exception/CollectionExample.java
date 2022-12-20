@@ -82,6 +82,10 @@ public class CollectionExample {
                     ", Value = " + entry.getValue());
     }
 
+    public void ff(){
+        System.out.println("--------");
+    }
+
 
     public static void main(String[] args) throws Exception {
         CollectionExample t1 = new CollectionExample();
