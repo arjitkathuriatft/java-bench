@@ -19,7 +19,8 @@ public class StaticExample {
         s2.abc();
     }
 
-    public void abcd(){
-        System.out.println("-----");
+
+    public void aa(){
+        System.out.printf("I am new");
     }
 }

@@ -47,6 +47,10 @@ public class Test {
             Thread.sleep(2000);
     }
 
+    public void cc(){
+        System.out.printf("I am cc");
+    }
+
 
 
     public static void main(String[] args) throws Exception {
